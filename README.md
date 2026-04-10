@@ -1,2 +1,6 @@
-# Ecommerce-Customer-Behavior-Python-
-Data cleaning, Data Exploring, Basic visualization and Business insights
+# Ecommerce-Customer-Behavior ( Python )
+## Project Objective 
+To analyze customer type, total spend, items purchased and customer loyalty.
+
+## Dataset Used
+
